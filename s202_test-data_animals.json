@@ -1,4 +1,16 @@
+
 [
+  {"common_name": "Leopard",
+  "scientific_name": "Panthera pardus",
+  "habitat": "Forests, grasslands, and mountains across Africa and Asia",
+  "description": "A solitary and stealthy big cat known for its distinctive spotted coat and remarkable ability to adapt to diverse environments."
+  },
+  
+  {"common_name": "Indomitable Lion",
+  "scientific_name": "Panthera leo",
+  "habitat": "Savannas and grasslands of Africa",
+  "description": "Known as the national symbol of strength and courage, the Indomitable Lion represents resilience and pride across African cultures."
+},
   {
     "commonName": "African Elephant",
     "scientificName": "Loxodonta africana",
