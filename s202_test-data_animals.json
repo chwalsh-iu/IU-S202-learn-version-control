@@ -29,4 +29,11 @@
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
   }
+{
+  "animal": "Deer",
+  "classification": "Mammal",
+  "habitat": "Forests, meadows, and grasslands",
+  "diet": "Herbivore (leaves, grass, plants)",
+  "fun_fact": "Male deer grow antlers that they shed and regrow each year."
+}
 ]
