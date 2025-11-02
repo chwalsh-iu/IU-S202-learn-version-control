@@ -28,5 +28,17 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Hoatzin",
+    "scientificName": "Opisthocomus hoazin",
+    "habitat": "Tropical forests and swamps of the Amazon and Orinoco basins",
+    "description": "A species of tropical bird that is the only extant species in the genus Opisthocomus."
+  },
+  {
+    "commonName": "Arfak Parotia",
+    "scientificName": "Parotia sefilata",
+    "habitat": "mountain forests of Vogelkop and the Wandammen Peninsula of Western New Guinea",
+    "description": "A bird-of-paradise that is dimporphic, with the male having jet black plumage and golden-green shields."
   }
 ]
