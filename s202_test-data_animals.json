@@ -29,10 +29,16 @@
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
   }
-    {
+  {
     "commonName": "Raccoon",
     "scientificName": "Procyon lotor",
     "habitat": "Deciduous and mixed forests",
     "description": "Nocturnal omnivore noted for its intelligence."
+  }
+  {
+    "commonName": "Puerto Rican crested toad",
+    "scientificName": "Peltophryne lemur",
+    "habitat": "Puerto Rico and the Virgin Islands",
+    "description": "Endangered toad found on a few Caribbean islands also known as Sapo Concho."
   }
 ]
