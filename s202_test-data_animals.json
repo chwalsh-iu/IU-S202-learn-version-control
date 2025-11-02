@@ -29,4 +29,10 @@
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
   }
-]
+  {
+  "animal": "Giraffe",
+  "classification": "Mammal",
+  "habitat": "Savannah"
+  "description": "The tallest land animal,known for its very long neck and legs. It lives in Africa."
+},
+ 
