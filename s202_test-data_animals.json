@@ -29,4 +29,11 @@
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
   }
+  {
+  "animal": "Giraffe",
+  "classification": "Mammal",
+  "habitat": "Savannah and open woodlands",
+  "diet": "Herbivore (mostly leaves from tall trees, especially acacia)",
+  "fun_fact": "Giraffes are the tallest animals on Earth."
+}
 ]
