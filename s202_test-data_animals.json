@@ -34,7 +34,16 @@
 "scientificName": "Panthera leo",
 "habitat": "African savannas and grasslands",
 "description": "A large wild cat known for its strength and powerful roar."
+},
+{
+"commonName": "Giraffe",
+"scientificName": "Giraffa camelopardalis",
+"habitat": "African savannas and woodlands",
+"description": "The tallest land animal, known for its long neck and spotted coat."
 }
+]
+
+
 ]
 
 ]
